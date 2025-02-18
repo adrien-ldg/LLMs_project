@@ -1,3 +1,4 @@
-# LLMs_project
+# Projet final Data engineering 2
 
-dit dans le readme que les données sont sur le google drive que j'ai partagé et qu'il faut les stocker en local
+
+
